@@ -38,6 +38,14 @@
 - **Animation:** Lottie & Moti (Reanimated 2)
 - **Visualization:** Custom SVG Charts
 
+- ## 📸 Screenshots Aplikasi
+
+Berikut adalah tampilan antarmuka aplikasi GlucoSmart:
+
+| Halaman Utama (Home) | Halaman Analisis/Fitur Lain | Halaman Profil |
+| :---: | :---: | :---: |
+| <img src="home.png" width="250" /> | <img src="home1.png" width="250" /> | <img src="profil.png" width="250" /> |
+
 ---
 
 
