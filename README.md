@@ -57,9 +57,10 @@ Visualization: Custom SVG Charts
 📸 Application Screenshots
 
 Below are the user interface previews of the GlucoSmart application:
+|             Home Screen            |         Analytics & Features        |            Profile Screen            |
+| :--------------------------------: | :---------------------------------: | :----------------------------------: |
+| <img src="home.png" width="250" /> | <img src="home1.png" width="250" /> | <img src="profil.png" width="250" /> |
 
-Home Screen	Analytics & Features	Profile Screen
-<img src="home.png" width="250" />	<img src="home1.png" width="250" />	<img src="profil.png" width="250" />
 
 ---
 
